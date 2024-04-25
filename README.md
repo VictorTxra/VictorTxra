@@ -6,7 +6,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-silveira-teixeira-54760711b/)
 [![Social](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tD5GpMzZ)
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorTxra&show_icons=true&theme=merko)
+
 ## I'm a Front-End developer 🤓, and I prefer to work with:
 
 ![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
