@@ -6,7 +6,6 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-silveira-teixeira-54760711b/)
 [![Social](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tD5GpMzZ)
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorTxra&show_icons=true&theme=merko)
 
 ## I'm a Front-End developer 🤓, and I prefer to work with:
 
@@ -18,6 +17,7 @@
 ![Skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Skills](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorTxra&show_icons=true&theme=merko)
 
 ### But I also know how to use it at a certain level:
 
